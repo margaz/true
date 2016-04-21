@@ -1,4 +1,4 @@
-package com.gc.mycode;
+package com.ge.generics;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
